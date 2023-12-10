@@ -1,13 +1,10 @@
 
-
-
-
 let randomNumberPlayer1 = Math.floor(Math.random()*6)+1;
-let Player1DiceImage = "image/dice"+ randomNumberPlayer1 +".png";
+let Player1DiceImage = "dice"+ randomNumberPlayer1 +".png";
 document.querySelectorAll("img")[0].setAttribute("src", Player1DiceImage);
 
 let randomNumberPlayer2 = Math.floor(Math.random()*6)+1;
-let Player2DiceImage = "image/dice"+ randomNumberPlayer2 +".png";
+let Player2DiceImage = "dice"+ randomNumberPlayer2 +".png";
 document.querySelectorAll("img")[1].setAttribute("src", Player2DiceImage);
 
 
