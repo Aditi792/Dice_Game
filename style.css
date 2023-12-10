@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(3, 46, 28);
+    font-family: 'DynaPuff', cursive;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.refresh {
+    font-size: 3rem;
+    padding:50px;
+    word-spacing: 2pc;
+}
+
+.row {
+    display: flex;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+p {
+    font-size: 2rem;
+    padding-bottom: 30px;
+}
+img{
+    height: 10rem;
+}
+.player1 {
+    margin-right: 121px;
+}
+.footer{
+    padding: 45px;
+}
