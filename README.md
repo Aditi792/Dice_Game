@@ -1,2 +1,2 @@
 # Dice_Game
-[link](https://github.com/Aditi792/Dice_Game.git)
+[Click Here](https://comfy-tiramisu-870f54.netlify.app/)https://comfy-tiramisu-870f54.netlify.app/
