@@ -1,2 +1,2 @@
 # Dice_Game
-[Click Here] https://comfy-tiramisu-870f54.netlify.app/
+[Click Here]( https://comfy-tiramisu-870f54.netlify.app/)
